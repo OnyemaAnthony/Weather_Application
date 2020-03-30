@@ -118,6 +118,7 @@ public class MainActivity extends AppCompatActivity {
                     dialog.dismiss();
 
                 }else {
+
                     Snackbar.make(v,"Enter a valid city name",Snackbar.LENGTH_SHORT).show();
 
                 }
